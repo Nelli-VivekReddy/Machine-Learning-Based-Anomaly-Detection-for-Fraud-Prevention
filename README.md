@@ -49,7 +49,7 @@ This project demonstrates how **machine learning can be applied as a cybersecuri
 
 ---
 
-## ⚙ Tech Stack
+## Tech Stack
 
 - **Language:** Python  
 - **Libraries:** pandas, scikit-learn, imbalanced-learn, matplotlib, seaborn  
