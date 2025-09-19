@@ -60,18 +60,4 @@ This project demonstrates how **machine learning can be applied as a cybersecuri
 
 ## 📁 Repository Structure
 
-fraud-detection-ml/
-│
-├── notebooks/
-│ └── fraud_detection_logistic.ipynb
-│
-├── models/
-│ └── logistic_model.pkl # (to be added)
-│
-├── results/
-│ ├── confusion_matrix.png
-│ ├── roc_curve.png
-│ └── metrics.txt
-│
-├── README.md
-└── requirements.txt
+
