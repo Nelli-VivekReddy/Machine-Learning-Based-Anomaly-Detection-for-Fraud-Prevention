@@ -1,4 +1,4 @@
-# 💳 Machine Learning-Based Anomaly Detection for Fraud Prevention
+# Machine Learning-Based Anomaly Detection for Fraud Prevention
 
 This project aims to detect fraudulent financial transactions using **machine learning techniques**, serving as an effective cybersecurity measure to prevent financial fraud.  
 Currently, around **30% of the project is complete**. A **Logistic Regression** model has been trained on a Kaggle dataset and is achieving **94% accuracy**.  
@@ -6,7 +6,7 @@ In the upcoming phases, the system will be deployed as a **Streamlit web app** f
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 - Detect fraudulent vs. legitimate transactions
 - Trained Logistic Regression baseline model
@@ -19,7 +19,7 @@ This project demonstrates how **machine learning can be applied as a cybersecuri
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - Source: [Fraud Detection Dataset – Aman Ali Siddiqui (Kaggle)](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset)
 - ~150,000 transaction records
@@ -29,7 +29,7 @@ This project demonstrates how **machine learning can be applied as a cybersecuri
 
 ---
 
-## ✅ Progress So Far
+##  Progress So Far
 
 - Collected and explored dataset from Kaggle  
 - Preprocessed and trained Logistic Regression model  
@@ -39,7 +39,7 @@ This project demonstrates how **machine learning can be applied as a cybersecuri
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 - Analyse and compare different machine learning algorithms (Random Forest, XGBoost)
 - Complete data preprocessing pipeline (encoding, scaling, SMOTE)
@@ -49,7 +49,7 @@ This project demonstrates how **machine learning can be applied as a cybersecuri
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙ Tech Stack
 
 - **Language:** Python  
 - **Libraries:** pandas, scikit-learn, imbalanced-learn, matplotlib, seaborn  
@@ -58,6 +58,6 @@ This project demonstrates how **machine learning can be applied as a cybersecuri
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 
